@@ -1,0 +1,2 @@
+<center><h2>Diese Seite existiert nicht!</h2></center>
+Du hast eine Seite aufgerufen die nicht existiert. Das kann daran liegen das ein Link falsch gesetzt ist oder du die URL manipuliert hast. Sollte dieser Fehler unerwartet auftreten melde es bitte als Bug im Forum oder schreibe eine E-Mail an <a href="mailto:admin@gladiatorgame.de" target="_blank">admin@gladiatorgame.de</a>!
